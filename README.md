@@ -65,7 +65,9 @@ TBA.
 You may find it useful to make use of DIKUs GPU machines in your work.
 You log in by first SSHing to the bastion server
 `ssh-diku-apl.science.ku.dk` using your KU license plate (`abc123`) as
-the user name, and then SSHing on to one of the GPU machines:
+the user name, and then SSHing on to one of the GPU machines.  Despite
+their names, they each have two multi-core CPUs and plenty of RAM as
+well.
 
   * `gpu01-diku-apl`, `gpu02-diku-apl`, `gpu03-diku-apl` have dual GTX
     780 Ti GPUs.
