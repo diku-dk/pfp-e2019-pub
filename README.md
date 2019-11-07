@@ -23,9 +23,9 @@ This course schedule is tentative and will be updated.  **In
 particular:** it is likely that we may swap the order of lectures and
 labs for the first three teaching days, due to schedule conflicts.
 
-The lab sessions are aimed at providing help for the weekly assignment
-and group project.  Do not assume you can solve them without showing
-up to the lab sessions.
+The lab sessions are aimed at providing help for the assignments and
+group project.  Do not assume you can solve them without showing up to
+the lab sessions.
 
 On Monday, we are in "Kursussal 3" at "Zoo" (a building connected to
 the museum of zoology).
@@ -33,24 +33,27 @@ the museum of zoology).
 On Wednesday, we are at DIKU in classroom 1-0-22 from 10:00-12:00 and
 in classrom 1-0-26 from 13:00-15:00.
 
+**Note that the order of labs and lectures are swapped for the first
+three teaching days.**
+
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
-| 18/11 | 13:00-15:00 | Intro, deterministic parallelism, data parallelism, Futhark | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4 |
-| 18/11 | 15:00-17:00 | Lab | |
-| 21/11 | 10:00-12:00 | Cost models, advanced Futhark | |
-| 21/11 | 13:00-15:00 | Lab | |
-| 25/11 | 13:00-15:00 | Regular flattening: moderate flattening, incremental flattening | |
-| 25/11 | 15:00-17:00 | Lab | |
+| 18/11 | 13:00-15:00 | *Cancelled* |
+| 18/11 | 15:00-17:00 | Intro, deterministic parallelism, data parallelism, Futhark | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4 | |
+| 21/11 | 10:00-12:00 | Lab (**Assignment 1 handout**) | |
+| 21/11 | 13:00-15:00 | Cost models, advanced Futhark | |
+| 25/11 | 13:00-15:00 | Lab | |
+| 25/11 | 15:00-17:00 | Regular flattening: moderate flattening, incremental flattening | |
 | 27/11 | 10:00-12:00 | Full/irregular flattening | |
 | 27/11 | 13:00-15:00 | Lab | |
 | 2/12 | 13:00-15:00 | Task parallelism (parallel Haskell) | |
-| 2/12 | 15:00-17:00 | Lab | |
+| 2/12 | 15:00-17:00 | Lab (**Assignment 2 handout**) | |
 | 4/12 | 10:00-12:00 | Vector programming with ISPC | |
 | 4/12 | 13:00-15:00 | Lab | |
 | 9/12 | 13:00-15:00 | Halide | |
 | 9/12 | 15:00-17:00 | Lab | |
 | 11/12 | 10:00-12:00 | Polyhedral I | |
-| 11/12 | 13:00-15:00 | Lab | |
+| 11/12 | 13:00-15:00 | Lab (**Assignment 3 handout**) | |
 | 16/12 | 13:00-15:00 | Polyhedral II | |
 | 16/12 | 15:00-17:00 | Lab | |
 | 18/12 | 10:00-12:00 | Irregular locality of reference | |
