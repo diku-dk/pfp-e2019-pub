@@ -40,8 +40,8 @@ three teaching days.**
 | --- | --- | --- | --- |
 | 18/11 | 13:00-15:00 | *Cancelled* |
 | 18/11 | 15:00-17:00 | Intro, deterministic parallelism, data parallelism, Futhark | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4 | |
-| 21/11 | 10:00-12:00 | Lab (**Assignment 1 handout**) | |
-| 21/11 | 13:00-15:00 | Cost models, advanced Futhark | |
+| 20/11 | 10:00-12:00 | Lab (**Assignment 1 handout**) | |
+| 20/11 | 13:00-15:00 | Cost models, advanced Futhark | |
 | 25/11 | 13:00-15:00 | Lab | |
 | 25/11 | 15:00-17:00 | Regular flattening: moderate flattening, incremental flattening | |
 | 27/11 | 10:00-12:00 | Full/irregular flattening | |
