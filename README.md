@@ -19,9 +19,7 @@ course - you will be assigned reading material from papers and such.
 
 ## Course schedule
 
-This course schedule is tentative and will be updated.  **In
-particular:** it is likely that we may swap the order of lectures and
-labs for the first three teaching days, due to schedule conflicts.
+This course schedule is tentative and will be updated as we go along.
 
 The lab sessions are aimed at providing help for the assignments and
 group project.  Do not assume you can solve them without showing up to
