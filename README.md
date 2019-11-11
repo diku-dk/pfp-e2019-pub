@@ -2,8 +2,8 @@
 
 PFP is structured around five weeks of with lectures and lab sessions
 on Monday and Wednesday, followed by a final project, which will be
-presented orally at the exam.  Throughout the lecture weeks you will
-hand in three assignments.  These assignments, together with the exam,
+presented orally at the exam.  Throughout the course, you will hand in
+four weekly assignments.  These *weeklies*, together with the exam,
 will form the basis for your grade.
 
 The teachers are **Cosmin Oancea** and **Troels Henriksen**.
@@ -21,7 +21,7 @@ course - you will be assigned reading material from papers and such.
 
 This course schedule is tentative and will be updated as we go along.
 
-The lab sessions are aimed at providing help for the assignments and
+The lab sessions are aimed at providing help for the weeklies and
 group project.  Do not assume you can solve them without showing up to
 the lab sessions.
 
@@ -42,16 +42,16 @@ three teaching days.**
 | 20/11 | 13:00-15:00 | Cost models, advanced Futhark | |
 | 25/11 | 13:00-15:00 | Lab | |
 | 25/11 | 15:00-17:00 | Regular flattening: moderate flattening, incremental flattening | |
-| 27/11 | 10:00-12:00 | Full/irregular flattening | |
+| 27/11 | 10:00-12:00 | Full/irregular flattening (**Assignment 2 handout**) | |
 | 27/11 | 13:00-15:00 | Lab | |
 | 2/12 | 13:00-15:00 | Task parallelism (parallel Haskell) | |
-| 2/12 | 15:00-17:00 | Lab (**Assignment 2 handout**) | |
+| 2/12 | 15:00-17:00 | Lab | |
 | 4/12 | 10:00-12:00 | Vector programming with ISPC | |
-| 4/12 | 13:00-15:00 | Lab | |
+| 4/12 | 13:00-15:00 | Lab (**Assignment 3 handout**) | |
 | 9/12 | 13:00-15:00 | Halide | |
 | 9/12 | 15:00-17:00 | Lab | |
 | 11/12 | 10:00-12:00 | Polyhedral I | |
-| 11/12 | 13:00-15:00 | Lab (**Assignment 3 handout**) | |
+| 11/12 | 13:00-15:00 | Lab (**Assignment 4 handout**) | |
 | 16/12 | 13:00-15:00 | Polyhedral II | |
 | 16/12 | 15:00-17:00 | Lab | |
 | 18/12 | 10:00-12:00 | Irregular locality of reference | |
