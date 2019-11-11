@@ -42,8 +42,8 @@ three teaching days.**
 | 20/11 | 13:00-15:00 | Cost models, advanced Futhark | [Guy Blelloch: Programming Parallel Algorithms](material/blelloch-programming-parallel-algorithms.pdf) |
 | 25/11 | 13:00-15:00 | Lab | |
 | 25/11 | 15:00-17:00 | Regular flattening: moderate flattening, incremental flattening | [Futhark: Purely Functional GPU-Programming withNested Parallelism and In-Place Array Updates](https://futhark-lang.org/publications/pldi17.pdf), [Incremental Flattening for Nested Data Parallelism](https://futhark-lang.org/publications/ppopp19.pdf) (particularly the latter) |
-| 27/11 | 10:00-12:00 | Full/irregular flattening (**Assignment 2 handout**) | |
-| 27/11 | 13:00-15:00 | Lab | |
+| 27/11 | 10:00-12:00 | Full/irregular flattening | |
+| 27/11 | 13:00-15:00 | Lab (**Assignment 2 handout**) | |
 | 2/12 | 13:00-15:00 | Task parallelism (parallel Haskell) | [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/), chapter 4. |
 | 2/12 | 15:00-17:00 | Lab | |
 | 4/12 | 10:00-12:00 | Vector programming with ISPC | [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story) |
