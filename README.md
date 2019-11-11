@@ -95,3 +95,11 @@ export LIBRARY_PATH=$LD_LIBRARY_PATH:$LIBRARY_PATH
 export CPLUS_INCLUDE_PATH=$CUDA_DIR/include:$CPLUS_INCLUDE_PATH
 export C_INCLUDE_PATH=$CUDA_DIR/include:$C_INCLUDE_PATH
 ```
+
+## Other resources
+
+* ["Performance Matters" by Emergy Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
+
+* [A library of parallel algorithms in NESL](http://www.cs.cmu.edu/~scandal/nesl/algorithms.html)
+
+* [Functional Parallel Algorithms by Guy Blelloch](https://vimeo.com/showcase/1468571/video/16541324)
