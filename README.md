@@ -101,6 +101,10 @@ export C_INCLUDE_PATH=$CUDA_DIR/include:$C_INCLUDE_PATH
 You are not expected to read/watch the following unless otherwise
 noted, but they contain useful and interesting background information.
 
+* [The Futhark User's Guide](https://futhark.readthedocs.io), in
+  particular [Futhark Compared to Other Functional
+  Languages](https://futhark.readthedocs.io/en/latest/versus-other-languages.html)
+
 * [Troels' PhD thesis on the Futhark compiler](https://futhark-lang.org/publications/troels-henriksen-phd-thesis.pdf)
 
 * [A library of parallel algorithms in NESL](http://www.cs.cmu.edu/~scandal/nesl/algorithms.html)
