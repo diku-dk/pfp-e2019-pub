@@ -46,7 +46,7 @@ three teaching days.**
 | 27/11 | 13:00-15:00 | Lab (**Assignment 2 handout**) | |
 | 2/12 | 13:00-15:00 | Task parallelism (parallel Haskell) | [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/), chapter 4. |
 | 2/12 | 15:00-17:00 | Lab | |
-| 4/12 | 10:00-12:00 | Vector programming with ISPC | [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story) |
+| 4/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story) |
 | 4/12 | 13:00-15:00 | Lab (**Assignment 3 handout**) | |
 | 9/12 | 13:00-15:00 | Halide | |
 | 9/12 | 15:00-17:00 | Lab | |
