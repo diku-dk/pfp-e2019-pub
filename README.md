@@ -37,7 +37,7 @@ three teaching days.**
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
 | 18/11 | 13:00-15:00 | *Cancelled* |
-| 18/11 | 15:00-17:00 | Intro, deterministic parallelism, data parallelism, Futhark | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4 | |
+| 18/11 | 15:00-17:00 | [Intro, deterministic parallelism, data parallelism, Futhark](slides/L1-determ-prog.pdf) | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4 | |
 | 20/11 | 10:00-12:00 | Lab ([**Assignment 1 handout**](weekly-1/)) | [Futhark exercises](bootstrap-exercises.md) |
 | 20/11 | 13:00-15:00 | Cost models, advanced Futhark | [Guy Blelloch: Programming Parallel Algorithms](material/blelloch-programming-parallel-algorithms.pdf), [Prefix Sums and Their Applications](material/prefix-sums-and-their-applications.pdf) |
 | 25/11 | 13:00-15:00 | Lab | |
