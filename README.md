@@ -131,4 +131,4 @@ noted, but they contain useful and interesting background information.
 
 * [Functional Parallel Algorithms by Guy Blelloch](https://vimeo.com/showcase/1468571/video/16541324)
 
-* ["Performance Matters" by Emergy Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
+* ["Performance Matters" by Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
