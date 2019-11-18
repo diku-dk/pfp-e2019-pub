@@ -38,7 +38,7 @@ three teaching days.**
 | --- | --- | --- | --- |
 | 18/11 | 13:00-15:00 | *Cancelled* |
 | 18/11 | 15:00-17:00 | Intro, deterministic parallelism, data parallelism, Futhark | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4 | |
-| 20/11 | 10:00-12:00 | Lab (**Assignment 1 handout**) | [Futhark exercises](bootstrap-exercises.md) |
+| 20/11 | 10:00-12:00 | Lab ([**Assignment 1 handout**](weekly-1/)) | [Futhark exercises](bootstrap-exercises.md) |
 | 20/11 | 13:00-15:00 | Cost models, advanced Futhark | [Guy Blelloch: Programming Parallel Algorithms](material/blelloch-programming-parallel-algorithms.pdf), [Prefix Sums and Their Applications](material/prefix-sums-and-their-applications.pdf) |
 | 25/11 | 13:00-15:00 | Lab | |
 | 25/11 | 15:00-17:00 | Regular flattening: moderate and incremental | [Futhark: Purely Functional GPU-Programming with Nested Parallelism and In-Place Array Updates](https://futhark-lang.org/publications/pldi17.pdf), [Incremental Flattening for Nested Data Parallelism](https://futhark-lang.org/publications/ppopp19.pdf) (particularly the latter) |
@@ -57,9 +57,29 @@ three teaching days.**
 | 18/12 | 10:00-12:00 | Irregular locality of reference | |
 | 18/12 | 13:00-15:00 | Lab (with project proposals) | |
 
-## Assignments
+## Weekly assignments
 
-TBA.
+The weekly assignments are **mandatory**, must be solved
+**individually**, and make up 40% of your final grade.  Submission is
+on Absalon.
+
+### Weekly 1
+
+* [Assignment text](weekly-1/1.pdf)
+* [Code handout](weekly-1/ising-handout.tar.gz)
+* [Hopefully helpful notes on how to do these kinds of assignments](weekly-1/1-notes.pdf)
+
+### Weekly 2
+
+TBA
+
+### Weekly 3
+
+TBA
+
+### Weekly 4
+
+TBA
 
 ## Practical information
 
