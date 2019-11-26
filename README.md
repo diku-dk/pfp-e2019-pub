@@ -41,20 +41,20 @@ three teaching days.**
 | 20/11 | 10:00-12:00 | Lab ([**Assignment 1 handout**](weekly-1/)) | [Futhark exercises](bootstrap-exercises.md) |
 | 20/11 | 13:00-15:00 | [Cost models, advanced Futhark](slides/L2-advanced-futhark-cost-models.pdf) | [Guy Blelloch: Programming Parallel Algorithms](material/blelloch-programming-parallel-algorithms.pdf), [Prefix Sums and Their Applications](material/prefix-sums-and-their-applications.pdf), [A Provable Time and Space Efficient Implementation of NESL](material/a-provable-time-and-space-efficient-implementation-of-nesl.pdf) |
 | 25/11 | 13:00-15:00 | Lab | |
-| 25/11 | 15:00-17:00 | Regular flattening: moderate and incremental | [Futhark: Purely Functional GPU-Programming with Nested Parallelism and In-Place Array Updates](https://futhark-lang.org/publications/pldi17.pdf), [Incremental Flattening for Nested Data Parallelism](https://futhark-lang.org/publications/ppopp19.pdf) (particularly the latter) |
+| 25/11 | 15:00-17:00 | [Regular flattening: moderate and incremental](slides/L3-regular-flattening.pdf) | [Futhark: Purely Functional GPU-Programming with Nested Parallelism and In-Place Array Updates](https://futhark-lang.org/publications/pldi17.pdf), [Incremental Flattening for Nested Data Parallelism](https://futhark-lang.org/publications/ppopp19.pdf) (particularly the latter) |
 | 27/11 | 10:00-12:00 | [Full/irregular flattening](slides/L4-irreg-flattening.pdf) | [Transforming High-Level Data-Parallel Programs into Vector Operations](material/flattening/NeslFlatTechPaper.pdf), [Harnessing the Multicores: Nested Data Parallelism in Haskell](material/flattening/harnessing-multicores.pdf) (not easy to read)|
 | 27/11 | 13:00-15:00 | Lab (**Assignment 2 handout**) | |
 | 2/12 | 13:00-15:00 | Task parallelism (parallel Haskell) | [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/), chapter 4. |
 | 2/12 | 15:00-17:00 | Lab | |
-| 4/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story) |
+| 4/12 | 10:00-12:00 | Halide | | |
 | 4/12 | 13:00-15:00 | Lab (**Assignment 3 handout**) | |
-| 9/12 | 13:00-15:00 | Halide | |
+| 9/12 | 13:00-15:00 | Polyhedral I |
 | 9/12 | 15:00-17:00 | Lab | |
-| 11/12 | 10:00-12:00 | Polyhedral I | |
+| 11/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story) |
 | 11/12 | 13:00-15:00 | Lab (**Assignment 4 handout**) | |
-| 16/12 | 13:00-15:00 | Polyhedral II | |
+| 16/12 | 13:00-15:00 | Irregular locality of reference | |
 | 16/12 | 15:00-17:00 | Lab | |
-| 18/12 | 10:00-12:00 | Irregular locality of reference | |
+| 18/12 | 10:00-12:00 | ? | |
 | 18/12 | 13:00-15:00 | Lab (with project proposals) | |
 
 ## Weekly assignments
