@@ -63,15 +63,16 @@ The weekly assignments are **mandatory**, must be solved
 **individually**, and make up 40% of your final grade.  Submission is
 on Absalon.
 
-### Weekly 1
+### Weekly 1 (due November 28)
 
 * [Assignment text](weekly-1/1.pdf)
 * [Code handout](weekly-1/ising-handout.tar.gz)
 * [Hopefully helpful notes on how to do these kinds of assignments](weekly-1/1-notes.pdf)
 
-### Weekly 2
+### Weekly 2 (due December 5)
 
-TBA
+* [Assignment text](weekly-2/2.pdf)
+* [Code handout](weekly-2/code.tar.gz)
 
 ### Weekly 3
 
