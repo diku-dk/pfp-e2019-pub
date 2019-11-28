@@ -44,7 +44,7 @@ three teaching days.**
 | 25/11 | 15:00-17:00 | [Regular flattening: moderate and incremental](slides/L3-regular-flattening.pdf) | [Futhark: Purely Functional GPU-Programming with Nested Parallelism and In-Place Array Updates](https://futhark-lang.org/publications/pldi17.pdf), [Incremental Flattening for Nested Data Parallelism](https://futhark-lang.org/publications/ppopp19.pdf) (particularly the latter) |
 | 27/11 | 10:00-12:00 | [Full/irregular flattening](slides/L4-irreg-flattening.pdf) | [Transforming High-Level Data-Parallel Programs into Vector Operations](material/flattening/NeslFlatTechPaper.pdf), [Harnessing the Multicores: Nested Data Parallelism in Haskell](material/flattening/harnessing-multicores.pdf) (not easy to read)|
 | 27/11 | 13:00-15:00 | Lab ([**Assignment 2 handout**](weekly-2/)) | |
-| 2/12 | 13:00-15:00 | Task parallelism (parallel Haskell) | [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/), chapter 4. |
+| 2/12 | 13:00-15:00 | Task parallelism (parallel Haskell) | [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/), chapter 4. [Seq no more: Better Strategies for Parallel Haskell](material/seq-no-more.pdf)) |
 | 2/12 | 15:00-17:00 | Lab | |
 | 4/12 | 10:00-12:00 | Halide | | |
 | 4/12 | 13:00-15:00 | Lab (**Assignment 3 handout**) | |
