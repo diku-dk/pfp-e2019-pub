@@ -1,0 +1,42 @@
+cabal-version: 2.2
+name: sudoku
+version: 1.0.0
+build-type: Simple
+
+common flags
+  ghc-options: -Wall -rtsopts -threaded -eventlog
+  other-modules: Sudoku
+  default-language: Haskell2010
+  build-depends: base, parallel, array, deepseq, monad-par
+
+executable sudoku1
+  import: flags
+  main-is: sudoku1.hs
+
+executable sudoku2
+  import: flags
+  main-is: sudoku2.hs
+
+executable sudoku3
+  import: flags
+  main-is: sudoku3.hs
+
+executable sudoku3-final
+  import: flags
+  main-is: sudoku3-final.hs
+
+executable sudoku-par1
+  import: flags
+  main-is: sudoku-par1.hs
+
+executable sudoku-par2
+  import: flags
+  main-is: sudoku-par2.hs
+
+executable sudoku-par3
+  import: flags
+  main-is: sudoku-par3.hs
+
+executable sudoku-par3-homebrew
+  import: flags
+  main-is: sudoku-par3-homebrew.hs
