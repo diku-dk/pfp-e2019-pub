@@ -6,7 +6,14 @@ line program is just called `cabal`).  You will need at least `cabal`
 
 There are two programs here: `pfpray`, which is used for generating
 images, and `bench-pfpray`, which is a benchmarking harness that makes
-use of the excellent `criterion` library.  You can build both by running
+use of the excellent `criterion` library.  First you must run the
+following command:
+
+```
+cabal update
+```
+
+Then you can build both by running
 
 ```
 cabal build --enable-benchmarks
