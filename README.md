@@ -63,6 +63,11 @@ The weekly assignments are **mandatory**, must be solved
 **individually**, and make up 40% of your final grade.  Submission is
 on Absalon.
 
+You will receive feedback a week after the handin deadline (at the
+latest).  You then have another week to prepare a resubmission.  That
+is, **the resubmission deadline is two weeks after the original handin
+deadline**.
+
 ### Weekly 1 (due November 28)
 
 * [Assignment text](weekly-1/1.pdf)
@@ -76,7 +81,8 @@ on Absalon.
 
 ### Weekly 3
 
-TBA
+* [Assignment text](weekly-3/3.pdf)
+* [Code handout](weekly-3/code-handout)
 
 ### Weekly 4
 
