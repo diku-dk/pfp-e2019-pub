@@ -1,0 +1,20 @@
+cabal-version: 2.2
+name: pfpray
+version: 1.0.0
+build-type: Simple
+
+common shared
+  ghc-options: -Wall -rtsopts -threaded
+  default-language: Haskell2010
+  build-depends: base, parallel, array, deepseq, monad-par
+  other-modules: Raytracing, Vec3, Scene, Image, BVH
+
+executable pfpray
+  import: shared
+  main-is: pfpray.hs
+
+benchmark bench-pfpray
+  import: shared
+  type: exitcode-stdio-1.0
+  build-depends: criterion
+  main-is: bench-pfpray.hs
