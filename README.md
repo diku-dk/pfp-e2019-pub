@@ -79,12 +79,12 @@ deadline**.
 * [Assignment text](weekly-2/2.pdf)
 * [Code handout](weekly-2/code.tar.gz)
 
-### Weekly 3
+### Weekly 3 (due December 12)
 
 * [Assignment text](weekly-3/3.pdf)
 * [Code handout](weekly-3/code-handout)
 
-### Weekly 4
+### Weekly 4 (due December 19)
 
 TBA
 
