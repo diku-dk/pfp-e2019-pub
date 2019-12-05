@@ -88,6 +88,10 @@ deadline**.
 
 TBA
 
+## Group project
+
+[Project suggestions here.](project-suggestions.md)
+
 ## Practical information
 
 You may find it useful to make use of DIKUs GPU machines in your work.
