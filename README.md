@@ -50,7 +50,7 @@ three teaching days.**
 | 4/12 | 13:00-15:00 | Lab ([**Assignment 3 handout**](weekly-3)) | |
 | 9/12 | 13:00-15:00 | Polyhedral I |
 | 9/12 | 15:00-17:00 | Lab | |
-| 11/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story) |
+| 11/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [ispc: A SPMD Compiler for High-Performance CPU Programming](ispc_inpar_2012.pdf), [Modular Acceleration: Tricky Cases of Functional High-Performance Computing](https://futhark-lang.org/publications/fhpc18.pdf), [Data-Parallel Flattening by Expansion](https://futhark-lang.org/publications/array19.pdf) |
 | 11/12 | 13:00-15:00 | Lab (**Assignment 4 handout**) | |
 | 16/12 | 13:00-15:00 | Irregular locality of reference | |
 | 16/12 | 15:00-17:00 | Lab | |
@@ -143,3 +143,5 @@ noted, but they contain useful and interesting background information.
 * [Functional Parallel Algorithms by Guy Blelloch](https://vimeo.com/showcase/1468571/video/16541324)
 
 * ["Performance Matters" by Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
+
+* [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story)
