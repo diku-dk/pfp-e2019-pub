@@ -50,7 +50,7 @@ three teaching days.**
 | 4/12 | 13:00-15:00 | Lab ([**Assignment 3 handout**](weekly-3)) | |
 | 9/12 | 13:00-15:00 | Polyhedral I |
 | 9/12 | 15:00-17:00 | Lab | |
-| 11/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [ispc: A SPMD Compiler for High-Performance CPU Programming](ispc_inpar_2012.pdf), [Modular Acceleration: Tricky Cases of Functional High-Performance Computing](https://futhark-lang.org/publications/fhpc18.pdf), [Data-Parallel Flattening by Expansion](https://futhark-lang.org/publications/array19.pdf) |
+| 11/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [ispc: A SPMD Compiler for High-Performance CPU Programming](material/ispc_inpar_2012.pdf), [Modular Acceleration: Tricky Cases of Functional High-Performance Computing](https://futhark-lang.org/publications/fhpc18.pdf), [Data-Parallel Flattening by Expansion](https://futhark-lang.org/publications/array19.pdf) |
 | 11/12 | 13:00-15:00 | Lab (**Assignment 4 handout**) | |
 | 16/12 | 13:00-15:00 | Irregular locality of reference | |
 | 16/12 | 15:00-17:00 | Lab | |
