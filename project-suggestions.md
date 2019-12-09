@@ -34,3 +34,15 @@ This project is about writing a Futhark implementation of the
 Barnes-Hut algorithm.  One interesting subgoal is how to retain the
 ability use the low-overhead *O(n²)* algorithm when computing nearby
 interactions.
+
+## Porting a Parboil benchmark to a parallel language
+
+[Parboil](http://impact.crhc.illinois.edu/parboil/parboil.aspx) is a
+suite of benchmarks that is used when presenting new research into
+compilers or parallel programming.  This project is about picking one
+of the benchmarks and porting it to a parallel language covered in
+class (I prefer Futhark, but if you want to use `ispc` or Parallel
+Haskell, that's fine too).  For Futhark, [we already we have
+implementations of `histo`, `mri-q`, `sgemm`, `stencil`, and
+`tpacf`](https://github.com/diku-dk/futhark-benchmarks/tree/master/parboil),
+so we are mostly interested in the remaining ones.
