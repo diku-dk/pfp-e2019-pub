@@ -1,7 +1,7 @@
 # Parallel Functional Programming, Block 2 2019
 
-PFP is structured around five weeks of with lectures and lab sessions
-on Monday and Wednesday, followed by a final project, which will be
+PFP is structured around five weeks with lectures and lab sessions
+on Monday and Wednesday, followed by a final project to be
 presented orally at the exam.  Throughout the course, you will hand in
 four weekly assignments.  These *weeklies* count for 40\% of the
 grade, while the exam counts for 60\%.
@@ -50,7 +50,7 @@ three teaching days.**
 | 4/12 | 13:00-15:00 | Lab ([**Assignment 3 handout**](weekly-3)) | |
 | 9/12 | 13:00-15:00 | Polyhedral I |
 | 9/12 | 15:00-17:00 | Lab | |
-| 11/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story) |
+| 11/12 | 10:00-12:00 | Vector programming with ISPC (tentative) | [ispc: A SPMD Compiler for High-Performance CPU Programming](material/ispc_inpar_2012.pdf), [Modular Acceleration: Tricky Cases of Functional High-Performance Computing](https://futhark-lang.org/publications/fhpc18.pdf), [Data-Parallel Flattening by Expansion](https://futhark-lang.org/publications/array19.pdf) |
 | 11/12 | 13:00-15:00 | Lab (**Assignment 4 handout**) | |
 | 16/12 | 13:00-15:00 | Irregular locality of reference | |
 | 16/12 | 15:00-17:00 | Lab | |
@@ -63,6 +63,11 @@ The weekly assignments are **mandatory**, must be solved
 **individually**, and make up 40% of your final grade.  Submission is
 on Absalon.
 
+You will receive feedback a week after the handin deadline (at the
+latest).  You then have another week to prepare a resubmission.  That
+is, **the resubmission deadline is two weeks after the original handin
+deadline**.
+
 ### Weekly 1 (due November 28)
 
 * [Assignment text](weekly-1/1.pdf)
@@ -74,13 +79,18 @@ on Absalon.
 * [Assignment text](weekly-2/2.pdf)
 * [Code handout](weekly-2/code.tar.gz)
 
-### Weekly 3
+### Weekly 3 (due December 12)
+
+* [Assignment text](weekly-3/3.pdf)
+* [Code handout](weekly-3/code-handout)
+
+### Weekly 4 (due December 19)
 
 TBA
 
-### Weekly 4
+## Group project
 
-TBA
+[Project suggestions here.](project-suggestions.md)
 
 ## Practical information
 
@@ -133,3 +143,5 @@ noted, but they contain useful and interesting background information.
 * [Functional Parallel Algorithms by Guy Blelloch](https://vimeo.com/showcase/1468571/video/16541324)
 
 * ["Performance Matters" by Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
+
+* [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story)
