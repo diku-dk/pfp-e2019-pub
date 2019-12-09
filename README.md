@@ -1,7 +1,7 @@
 # Parallel Functional Programming, Block 2 2019
 
-PFP is structured around five weeks of with lectures and lab sessions
-on Monday and Wednesday, followed by a final project, which will be
+PFP is structured around five weeks with lectures and lab sessions
+on Monday and Wednesday, followed by a final project to be
 presented orally at the exam.  Throughout the course, you will hand in
 four weekly assignments.  These *weeklies* count for 40\% of the
 grade, while the exam counts for 60\%.
