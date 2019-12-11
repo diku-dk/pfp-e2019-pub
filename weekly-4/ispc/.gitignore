@@ -1,0 +1,6 @@
+*
+!*.c
+!*.ispc
+!.gitignore
+!timing.h
+!Makefile

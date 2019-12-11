@@ -51,7 +51,7 @@ three teaching days.**
 | 9/12 | 13:00-15:00 | [Polyhedral Analysis](slides/L9-polyhedral.pdf) | [PMPH Dependence Analysis](material/poly/L5-LoopParI.pdf); [Sven Verdoolaege: Presburger Formulas and Polyhedral Compilation (tutorial)](material/poly/polycomp-tutorial.pdf); [Sven Verdoolaege: Presburger Sets and Relations: from High-Level Modelling to Low-Level Implementation (slides)](material/poly/poly-in-detail.pdf)
 | 9/12 | 15:00-17:00 | Lab | [Code Examples Using the ISLPY library](material/poly/poly-code-egs/) |
 | 11/12 | 10:00-12:00 | [Vector programming with ISPC](slides/L8-ispc.pdf) | [ispc: A SPMD Compiler for High-Performance CPU Programming](material/ispc_inpar_2012.pdf) |
-| 11/12 | 13:00-15:00 | Lab (**Assignment 4 handout**) | |
+| 11/12 | 13:00-15:00 | Lab ([**Assignment 4 handout**](weekly-4)) | |
 | 16/12 | 13:00-15:00 | Irregular locality of reference | |
 | 16/12 | 15:00-17:00 | Lab | |
 | 18/12 | 10:00-12:00 | ? | |
@@ -86,7 +86,8 @@ deadline**.
 
 ### Weekly 4 (due December 19)
 
-TBA
+* [Assignment text](weekly-4/4.pdf)
+* [Code handout](weekly-4/code-handout)
 
 ## Group project
 
