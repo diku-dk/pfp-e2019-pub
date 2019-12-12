@@ -46,3 +46,17 @@ Haskell, that's fine too).  For Futhark, [we already we have
 implementations of `histo`, `mri-q`, `sgemm`, `stencil`, and
 `tpacf`](https://github.com/diku-dk/futhark-benchmarks/tree/master/parboil),
 so we are mostly interested in the remaining ones.
+
+## Implementing the *k*-nearest neighbours algorithm in Futhark
+
+[*k*-NN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+is a classification and regression algorithm.  In the classification
+case, we classify new objects (identified by their position in some
+*d*-dimensional space) by the classifications of the *k* nearest
+already classified objects.  This algorithm sees wide use in data
+science.
+
+The project is about implementing *k*-NN in Futhark in such a way that
+it scales well for different values of *k*, *d*, and *n* (the input
+size).  Runtime comparison with some prior implementation of *k*-NN
+should also be done.
