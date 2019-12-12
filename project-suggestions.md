@@ -60,3 +60,26 @@ The project is about implementing *k*-NN in Futhark in such a way that
 it scales well for different values of *k*, *d*, and *n* (the input
 size).  Runtime comparison with some prior implementation of *k*-NN
 should also be done.
+
+## Implementing Data-Parallel Decompression in Futhark
+
+This project is about implementing a pair of compression-decompression
+algorithms, in which only the decompression needs to be data-parallel---i.e., 
+run efficiently on GPUs---while the compression can be left sequential---e.g.,
+loops with in-place updates---and executed on the CPU.
+
+The motivation is that transferring data from CPU-to-GPU memory space
+is typically very expensive, typically much more so than the overhead
+of decompression, assuming that the compression factor is good enough.
+It follows that any big-data application may potentially benefit from
+from your implementation.
+
+In principle, you may chose whatever decompression algorithm you would
+like, as long as it is amenable to GPU execution. One piece of work
+that we found relatively easy to understand is:
+
+[Fully Parallelized LZW Decompression for CUDA-Enabled GPUs](https://pdfs.semanticscholar.org/6eca/44be96dcf1156c047656b9286485eeb51316.pdf)
+
+A more refined (parallel) algorithm is presented in:
+[Light Loss-Less Data Compression, With GPU Implementation](http://www.cs.hiroshima-u.ac.jp/cs/_media/lll.pdf)
+but we would be very happy with the first one.
