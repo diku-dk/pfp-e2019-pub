@@ -59,7 +59,9 @@ science.
 The project is about implementing *k*-NN in Futhark in such a way that
 it scales well for different values of *k*, *d*, and *n* (the input
 size).  Runtime comparison with some prior implementation of *k*-NN
-should also be done.
+should also be done.  As inspiration, [this
+paper](http://proceedings.mlr.press/v32/gieseke14.pdf) demonstrates an
+efficient GPU implementation of nearest-neighbour calculation.
 
 ## Implementing Data-Parallel Decompression in Futhark
 
