@@ -52,7 +52,7 @@ three teaching days.**
 | 9/12 | 15:00-17:00 | Lab | [Code Examples Using the ISLPY library](material/poly/poly-code-egs/) |
 | 11/12 | 10:00-12:00 | [Vector programming with ISPC](slides/L8-ispc.pdf) | [ispc: A SPMD Compiler for High-Performance CPU Programming](material/ispc_inpar_2012.pdf) |
 | 11/12 | 13:00-15:00 | Lab ([**Assignment 4 handout**](weekly-4)) | |
-| 16/12 | 13:00-15:00 | Irregular locality of reference | |
+| 16/12 | 13:00-15:00 | [Optimizing Locality of Reference](slides/L10-LocOfRef.pdf) | [Related Literature](material/Opt-Loc-Ref-Lit/) |
 | 16/12 | 15:00-17:00 | Lab | |
 | 18/12 | 10:00-12:00 | ? | |
 | 18/12 | 13:00-15:00 | Lab (with project proposals) | |
