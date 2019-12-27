@@ -89,9 +89,26 @@ deadline**.
 * [Assignment text](weekly-4/4.pdf)
 * [Code handout](weekly-4/code-handout)
 
-## Group project
+## Group project and exam
 
-[Project suggestions here.](project-suggestions.md)
+The final project, along with the exam as a whole, contributes 60% of
+your grade, and is done in groups of 1-3 people (although working
+alone is strongly discouraged).  We have [a list of project
+suggestions](project-suggestions.md), but you are free to suggest your
+own (but please talk with us first).  Since the time to work on the
+project is rather limited, and there is no possibility of
+resubmission, you should ask for help early and often if you are
+having trouble making progress.  The project should ideally be handed
+in prior to the exam week.
+
+Most of the projects are about writing some parallel program, along
+with a report describing the main points and challenges of the
+problem.  The exam format is a group presentation followed by
+individual questions about both your project **and anything else in
+the curriculum**.  Each group prepares a common presentation with
+slides, and each member of the group presents non-overlapping parts of
+the presentation for about 10 min (or less). Then each member of the
+group will answer individual questions for about 10 min.
 
 ## Practical information
 
