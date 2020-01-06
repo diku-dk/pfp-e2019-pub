@@ -57,6 +57,16 @@ three teaching days.**
 | 18/12 | 10:00-12:00 | Lab | |
 | 18/12 | 13:00-15:00 | Lab | |
 
+After New Years, there will be no lectures, but labs will still be
+held to help with the group project.
+
+| Date | Time |
+| --- | --- |
+| 6/1 | 15:00-17:00 |
+| 8/1 | 13:00-15:00 |
+| 13/1 | 15:00-17:00 |
+| 15/1 | 13:00-15:00 |
+
 ## Weekly assignments
 
 The weekly assignments are **mandatory**, must be solved
